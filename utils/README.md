@@ -1,6 +1,6 @@
 
-# dfz
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Generate README file
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 
 1. [Description](#description)
@@ -13,28 +13,28 @@
 
 ## Description
 
-fd
+The generated README file includes what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions and the section with a developer's contact information
 
 ## Installation
 
-sfad
+Initialize Project, Install Dependencies,Create a JavaScript File, Define README Template, Import Modules, Define Questions, Prompt the User,Generate README Content, Write to a File, Run the Generator,Test Generator
 
 ## Usage
 
-asdf
+You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
 
 ## Contribution
 
-das
+Reporting Issues- Encourage users and contributors to report any issues they encounter by creating detailed bug reports, Provide a template for issue reports that includes steps to reproduce the problem, expected behavior, actual behavior, and any relevant environment information.
 
 
 ## License
 
-This application is covered by the MIT license.
+This application is covered by the Mozilla license.
   
 ## Test
 
-das
+Clone the Repository, Install Dependencies, Run the App, Provide Input, Review Generated README
 
 
 ## Questions

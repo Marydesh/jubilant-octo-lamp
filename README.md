@@ -1,5 +1,7 @@
 # jubilant-octo-lamp
 
+Link to the screenrecording - https://drive.google.com/file/d/1ZQzFakJebkRSXFNX0mFFUOhKLUO5rd9r/view
+
 * This app is generates a README file by using a command-line application.
 
 * The generated README file includes what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions and the section with a developer's contact information.
