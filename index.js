@@ -30,7 +30,7 @@ const questions = [
         type: 'list',
         message: 'Choose the license',
         name: 'license',
-        choices: ['MIT', 'Mozilla', 'Apache'],
+        choices: ['MIT', 'Mozilla', 'Apache', 'none'],
     },
     {
         type: 'input',
@@ -41,8 +41,17 @@ const questions = [
         type: 'input',
         message: 'How you can test this application?',
         name: 'test',
+    },
+    {
+        type: 'input',
+        message: 'What is your github username?',
+        name: 'questions',
+    },
+    {
+        type: 'input',
+        message: 'What is your email?',
+        name: 'email'
     }
-    
 ];
 
 // TODO: Create a function to write README file
@@ -70,6 +79,7 @@ function init() {
                 console.log(error);
                 // Prompt couldn't be rendered in the current environment
             } else {
+                console.log(error)
                 // Something else went wrong
             }
         });
